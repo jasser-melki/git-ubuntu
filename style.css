@@ -1,0 +1,16 @@
+html{
+    background-color: antiquewhite;
+}
+p{
+    color: rgb(105, 175, 39);
+    outline: dashed violet;
+    text-align: center;
+}
+.aaa{
+    width: 300px;
+    height: 150px;
+    margin: 50px;
+    padding: 20px;
+    border: solid red 5px;
+
+}
